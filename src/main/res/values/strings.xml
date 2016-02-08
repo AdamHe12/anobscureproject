@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UVa Bucket List</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="s1">Streak the Lawn</string>
+    <string name="s2">Sing the Good Ole Song</string>
+    <string name="s3">Attend Rotunda Sing</string>
+    <string name="s4">High-five Dean Groves</string>
+    <string name="s5">Make a class gift</string>
+    <string name="s6">Watch the Antics of Hypnotist Tom Deluca</string>
+    <string name="s7">Nab the #1 Ticket at Bodo’s</string>
+    <string name="s8">Paint Beta Bridge</string>
+    <string name="s9">Attend a Class of 2017 Trustees Event!</string>
+    <string name="s10">Experience Late Night at Little Johns</string>
+    <string name="s11">Volunteer in the Charlottesville community</string>
+    <string name="s12">Tailgate a U.Va. Sporting Event</string>
+    <string name="s13">Eat a Pancake for Parkinson’s</string>
+    <string name="s14">Chalk for Your Favorite CIO</string>
+    <string name="s15">Grab a Slice at Christian’s</string>
+    <string name="s16">Donate Blood – or Support a Friend’s Donation</string>
+    <string name="s17">Dress Up “Guys in Ties, Girls in Pearls”</string>
+    <string name="s18">Tube Down the James</string>
+    <string name="s19">Ride the Wahooptie</string>
+    <string name="s20">Relive O-hill Brunch</string>
+    <string name="s21">Visit the Farmer’s Market Downtown</string>
+
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>
